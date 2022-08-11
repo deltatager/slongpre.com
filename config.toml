@@ -1,0 +1,4 @@
+baseURL = 'https://slongpre.com/'
+languageCode = 'en-us'
+title = 'Simon Longpré-Landry'
+theme = "dimension"
