@@ -1,6 +1,5 @@
 ---
 title: Curriculum Vitæ
-background: "images/delta-fox-full.svg"
 ---
 ## Education
 
