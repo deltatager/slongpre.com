@@ -4,7 +4,7 @@ image: "https://via.placeholder.com/1600x800?text=I'll+have+a+real+picture+once+
 ---
 Hi, I'm Simon, and I live in Montréal, where I work as a backend COBOL & Java dev. Most of my work is done in Java, where I write automated testing pipelines in Jenkins for mainframe applications. I also write COBOL programs and JCL jobs to help with the mainframe side of automation.  
 
-I am driven by my curiosity. I really enjoy learning about new things, be it the latest technologies, or old ones from the 80's, I like understanding how things work and getting to the bottom of things. From mastering the Java Streaming API to understanding IMS database calls in COBOL, passing through the latest DevOps practices and the latests cloud-native software, there's no limit to what I want to learn about.
+I am driven by my curiosity. I really enjoy learning about new things, be it the latest technologies or old ones from the 80's, and understanding how they work from top to bottom. From mastering the Java Streaming API to understanding IMS database calls in COBOL, passing through the latest DevOps practices and the latests cloud-native software, there's no limit to what I want to learn about.
 
 Altough I was trained, and now work, as a programmer, I also love networking and infrastructure, spending most of my free time working on my homelab, setting services and distributed computing in my Kubernetes cluster. I'm a strategy game aficionado, real-time or turn-based, and love racing sims. My passion for netwroking actually started when I first hosted a Minecraft server on an old Pentium 4 PC for my friend and I back in high-school.
 
