@@ -14,12 +14,24 @@ Aside from tech, I have a green thumb, my living room is filled with plants, fro
 
 ---
 
+### My PC
+- Ryzen 7 2700 with 32Gb of DDR4
+- NVIDIA RTX 3090 Founders Edition
+- 2TB Adata NVMe SSD
+- NZXT Kraken X63 RGB cooler
+- Dual booting : 
+  - Windows 11 for games
+  - Fedora KDE on Wayland (the 3090 makes it really fun and simple, yes)
+- All wrapped in a nice Fractal Design Meshify C Mini
+
 ### My homelab
 - Dell R710 with dual Xeon E5640, 120GB of ECC DDR3, dual 10Gib SFP NIC, running Proxmox
 - Dell R610 with dual Xeon E5640, 16GB of ECC DDR3, dual 10Gib SFP NIC, running Proxmox (owned by a friend)
-- i7 3770 system with 64Gb of DDR3, running TrueNAS Scale
+- i7 3770 system with 32Gb of DDR3, running TrueNAS Scale
+- i7 3770 system with 16Gb of DDR3 and a Asus GTX 1070 Strix OC for media transcoding
 - 2 x Raspberry Pi4 8GB running Raspian 64bit, with vanilla Kubernetes
 - Mac Mini (Late 2014) i5 4260U, 4GB DDR3, running Debian 11 with vanilla Kubernetes
+- Lenovo ThinkCentre M75Q Tiny, AMD Ryzen 5 Pro with 16GB of DDR4, running CentOS and vanilla Kubernetes 
 
 #### My network
 - Qotom mini PC with a Celeron J1900, 8Gb of RAMm quad 1Gib NIC running OPNSense
